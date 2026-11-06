@@ -252,7 +252,7 @@ export function HomeScreen({
               >
                 <div className="w-10 h-10 rounded-xl bg-[#FFF0D3] flex items-center justify-center overflow-hidden mb-2 group-hover:scale-105 transition-transform">
                   <img
-                    src="/assets/aistudio/maskot_siluhur_4eca92db.png"
+                    src="/maskot/maskot_kakek_luhur.png"
                     alt="Kakek Luhur"
                     className="w-8 h-8 object-contain"
                   />

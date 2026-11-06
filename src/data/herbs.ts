@@ -27,7 +27,7 @@ export const HERB_DATABASE: HerbItem[] = [
     type: 'Tanaman',
     category: 'Rempah Rimpang',
     openFoodFactsTag: 'ginger',
-    imageUrl: '/assets/images/jahe_botanical_1793585773910.jpg',
+    imageUrl: '/herbs_botanical/jahe_botanical.jpg',
     description:
       'Jahe adalah tanaman rimpang yang telah ribuan tahun menjadi pilar pengobatan tradisional dan kuliner Nusantara. Rimpangnya aromatik dengan rasa pedas hangat yang khas.',
     culturalContext:
@@ -95,7 +95,7 @@ export const HERB_DATABASE: HerbItem[] = [
     type: 'Tanaman',
     category: 'Rempah Rimpang',
     openFoodFactsTag: 'turmeric',
-    imageUrl: '/assets/images/kunyit_botanical_1793585826476.jpg',
+    imageUrl: '/herbs_botanical/kunyit_botanical.jpg',
     description:
       'Kunyit memiliki warna kuning jingga cemerlang berkat kurkuminoid. Salah satu rimpang terpenting dalam ramuan Jamu Kunyit Asam yang terkenal di seluruh kepulauan Indonesia.',
     culturalContext:
@@ -157,7 +157,7 @@ export const HERB_DATABASE: HerbItem[] = [
     type: 'Tanaman',
     category: 'Rempah Rimpang',
     openFoodFactsTag: 'curcuma',
-    imageUrl: '/assets/images/temulawak_botanical_1793585877504.jpg',
+    imageUrl: '/herbs_botanical/temulawak_botanical.jpg',
     description:
       'Temulawak adalah tanaman asli Indonesia (endemik Jawa) yang telah lama menjadi maskot tanaman obat unggulan nasional. Rimpangnya lebih besar dibanding kunyit dengan aroma khas xanthorrhizol.',
     culturalContext:
@@ -368,7 +368,7 @@ export const HERB_DATABASE: HerbItem[] = [
     type: 'Tanaman',
     category: 'Umbi Obat',
     openFoodFactsTag: 'onion',
-    imageUrl: '/assets/images/bawang_dayak_1793585810520.jpg',
+    imageUrl: '/herbs_botanical/bawang_dayak_botanical.jpg',
     description:
       'Umbi berwarna merah tua berlapis seperti bawang merah dengan bunga putih kecil. Tumbuh subur di pedalaman hutan Kalimantan dan menjadi andalan tetua suku Dayak.',
     culturalContext:

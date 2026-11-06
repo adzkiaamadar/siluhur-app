@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="400" height="400">
+  <!-- Steam Swirls -->
+  <path d="M 90 40 Q 85 28 95 18 T 88 5" fill="none" stroke="#A64F36" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+  <path d="M 110 42 Q 115 30 105 20 T 114 6" fill="none" stroke="#6E7953" stroke-width="2.5" stroke-linecap="round" opacity="0.6"/>
+
+  <!-- Traditional Clay Pot (Kuali Gerabah Jamu) -->
+  <ellipse cx="100" cy="85" rx="42" ry="12" fill="#8C3F29"/>
+  <path d="M 60 85 Q 48 115 65 140 Q 100 155 135 140 Q 152 115 140 85 Z" fill="#A64F36"/>
+  <ellipse cx="100" cy="84" rx="36" ry="8" fill="#5C2517"/>
+  <path d="M 64 85 Q 100 95 136 85" fill="none" stroke="#D97A5E" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Sliced Ginger / Turmeric Rhizomes -->
+  <g transform="translate(30, 125)">
+    <path d="M 10 25 C 5 15 20 8 30 14 C 42 10 50 24 45 35 C 38 45 18 42 10 25 Z" fill="#D49A58" stroke="#B07534" stroke-width="1.5"/>
+    <ellipse cx="48" cy="22" rx="14" ry="14" fill="#F4A228" stroke="#D28014" stroke-width="2"/>
+    <ellipse cx="48" cy="22" rx="9" ry="9" fill="#FFAE33"/>
+    <circle cx="48" cy="22" r="4" fill="#FFC966"/>
+  </g>
+
+  <!-- Cinnamon Sticks (Kayu Manis) -->
+  <g transform="translate(132, 115) rotate(15)">
+    <rect x="0" y="0" width="12" height="42" rx="3" fill="#803D26"/>
+    <rect x="2" y="2" width="4" height="38" rx="1" fill="#994D33"/>
+    <rect x="10" y="5" width="10" height="38" rx="3" fill="#692E1B"/>
+  </g>
+
+  <!-- Fresh Botanical Medicinal Leaves -->
+  <g transform="translate(130, 68) rotate(35)">
+    <path d="M 0 20 Q 15 0 35 10 Q 30 30 0 20 Z" fill="#6E7953"/>
+    <path d="M 0 20 L 30 12" stroke="#485331" stroke-width="1.5"/>
+  </g>
+  <g transform="translate(42, 75) rotate(-30)">
+    <path d="M 25 18 Q 10 0 0 10 Q 5 28 25 18 Z" fill="#4F5A38"/>
+    <path d="M 25 18 L 4 10" stroke="#333D22" stroke-width="1.5"/>
+  </g>
+
+  <!-- Jamu cup -->
+  <g transform="translate(85, 138)">
+    <path d="M 5 5 L 9 24 Q 15 28 21 24 L 25 5 Z" fill="#FFF0D3" stroke="#D1B88F" stroke-width="1.5"/>
+    <ellipse cx="15" cy="5" rx="10" ry="3.5" fill="#E89635"/>
+  </g>
+</svg>

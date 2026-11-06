@@ -148,7 +148,7 @@ export function AssistantScreen({ onBack, initialQuestion }: AssistantScreenProp
             <div className="relative">
               <div className="w-10 h-10 rounded-2xl bg-[#FFF0D3] border border-[#F4E3C1] flex items-center justify-center overflow-hidden shadow-2xs">
                 <img
-                  src="/assets/aistudio/maskot_siluhur_4eca92db.png"
+                  src="/maskot/maskot_kakek_luhur.png"
                   alt="Kakek Luhur"
                   className="w-8 h-8 object-contain"
                 />

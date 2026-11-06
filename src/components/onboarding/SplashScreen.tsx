@@ -53,20 +53,11 @@ export function SplashScreen({ onStart }: SplashScreenProps) {
         <div className="flex flex-col items-center text-center my-auto py-4 w-full animate-in zoom-in-95 duration-500">
           {/* Diamond Leaf Logo */}
           <div className="w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 mb-3 sm:mb-4 relative flex items-center justify-center">
-            <svg viewBox="0 0 100 100" className="w-full h-full drop-shadow-sm">
-              <path
-                d="M50 10 L88 50 L50 90 L12 50 Z"
-                fill="none"
-                stroke="#253D32"
-                strokeWidth="7"
-                strokeLinejoin="round"
-              />
-              <path
-                d="M50 26 C64 38 64 64 50 74 C36 64 36 38 50 26 Z"
-                fill="#253D32"
-              />
-              <circle cx="50" cy="50" r="5.5" fill="#A64F36" />
-            </svg>
+            <img
+              src="/branding/siluhur_diamond_leaf_logo.svg"
+              alt="Logo SiLuhur"
+              className="w-full h-full object-contain drop-shadow-sm"
+            />
           </div>
 
           <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-[#253D32] mb-1.5 font-['Outfit']">
@@ -91,7 +82,7 @@ export function SplashScreen({ onStart }: SplashScreenProps) {
             </div>
 
             <img
-              src="/assets/aistudio/maskot_siluhur_4eca92db.png"
+              src="/maskot/maskot_kakek_luhur.png"
               alt="Maskot SiLuhur Kakek Luhur"
               className="w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 object-contain relative z-10 drop-shadow-md hover:scale-105 transition-transform"
             />
@@ -115,33 +106,11 @@ export function SplashScreen({ onStart }: SplashScreenProps) {
         <div className="w-full flex flex-col items-center mt-auto">
           {/* Nusantara Panorama Silhouette vector */}
           <div className="w-full max-w-xs sm:max-w-sm md:max-w-md mb-4 sm:mb-5 opacity-85">
-            <svg viewBox="0 0 320 80" className="w-full h-auto">
-              <path
-                d="M0 60 Q 60 30 140 45 T 260 35 T 320 55 L 320 80 L 0 80 Z"
-                fill="#DFE5D5"
-              />
-              <path
-                d="M0 68 Q 90 48 190 62 T 320 65 L 320 80 L 0 80 Z"
-                fill="#6E7953"
-                fillOpacity="0.5"
-              />
-              <g transform="translate(40, 36) scale(0.65)">
-                <path
-                  d="M 5 50 Q 30 20 50 5 Q 70 20 95 50 L 80 50 L 50 25 L 20 50 Z"
-                  fill="#253D32"
-                />
-                <rect x="25" y="45" width="50" height="25" fill="#8C3F29" rx="2" />
-                <rect x="42" y="55" width="16" height="15" fill="#FAF6F0" rx="1" />
-              </g>
-              <g transform="translate(220, 42) scale(0.55)">
-                <path
-                  d="M 5 50 Q 30 20 50 5 Q 70 20 95 50 L 80 50 L 50 25 L 20 50 Z"
-                  fill="#253D32"
-                />
-                <rect x="25" y="45" width="50" height="25" fill="#8C3F29" rx="2" />
-                <rect x="42" y="55" width="16" height="15" fill="#FAF6F0" rx="1" />
-              </g>
-            </svg>
+            <img
+              src="/branding/splash_nusantara_panorama.svg"
+              alt="Panorama Nusantara"
+              className="w-full h-auto object-contain"
+            />
           </div>
 
           {/* Progress Bar & Skip Action */}

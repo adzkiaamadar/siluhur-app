@@ -172,7 +172,7 @@ export function AppHeader({
               title={t('askAi')}
             >
               <img
-                src="/assets/aistudio/maskot_siluhur_4eca92db.png"
+                src="/maskot/maskot_kakek_luhur.png"
                 alt="Kakek Luhur"
                 className="w-4 h-4 object-contain"
               />
@@ -391,7 +391,7 @@ export function AppHeader({
                   >
                     <div className="w-8 h-8 rounded-xl bg-[#FFF0D3] flex items-center justify-center shrink-0">
                       <img
-                        src="/assets/aistudio/maskot_siluhur_4eca92db.png"
+                        src="/maskot/maskot_kakek_luhur.png"
                         alt="Kakek Luhur"
                         className="w-5 h-5 object-contain"
                       />

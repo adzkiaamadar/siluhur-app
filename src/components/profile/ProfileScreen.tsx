@@ -142,7 +142,7 @@ export function ProfileScreen({
             {/* Mascot Advice Card */}
             <div className="p-4 rounded-2xl bg-[#FFF0D3]/60 border border-[#F4E3C1] flex items-start gap-3">
               <img
-                src="/assets/aistudio/maskot_siluhur_4eca92db.png"
+                src="/maskot/maskot_kakek_luhur.png"
                 alt="Maskot Kakek Luhur"
                 className="w-12 h-12 object-contain shrink-0 drop-shadow-2xs"
               />
