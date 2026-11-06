@@ -1,0 +1,6 @@
+{
+  "name": "SiLuhur",
+  "description": "Platform edukasi kesehatan yang memadukan kearifan tradisional Nusantara dengan informasi berbasis bukti ilmiah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
